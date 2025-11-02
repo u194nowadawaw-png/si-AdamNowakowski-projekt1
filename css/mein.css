@@ -1,0 +1,21 @@
+
+body{
+    background-color: black;
+}
+h1{
+      font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+    color: white;
+}
+.text{
+    color: snow;
+ font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  
+}
+.link{
+    color: white;
+    text-decoration:none;}
