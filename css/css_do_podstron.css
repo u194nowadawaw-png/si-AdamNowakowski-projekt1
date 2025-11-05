@@ -8,21 +8,30 @@ h1{
   font-weight: bold;
   font-style: normal;
     color: white;
+    font-size: 60px;
+    display: flex;
+    flex-wrap: nowrap;
+   
+    
+}
+#img{
+    
+    justify-content: end;
 }
 h2{
-        font-family: "Pixelify Sans", sans-serif;
-  font-optical-sizing: auto;
+    justify-content: end;
+     color: snow;
+ font-family: "Pixelify Sans", sans-serif;
   font-weight: bold;
-  font-style: normal;
-    color: white;
+  display: flex;
+  font-size: 30px;
+  flex-wrap: nowrap;
 }
+
 .text{
     color: snow;
  font-family: "Pixelify Sans", sans-serif;
-  font-optical-sizing: auto;
   font-weight: bold;
-  
+  display: flex;
+  font-size: 30px;
 }
-.link{
-    color: white;
-    text-decoration:none;}

@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+#tytuł{
+    font-size: 200%;
+}
+.text{
+    color: snow;
+ font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-size: 20px;
+  
+}
+.link{
+    color: white;
+    text-decoration:none;}
